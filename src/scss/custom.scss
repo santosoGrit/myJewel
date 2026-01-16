@@ -1,0 +1,29 @@
+// abstracts
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "abstracts/colors";
+
+// base
+@import "base/base";
+
+// vendor
+@import "vendors/swiper";
+
+// // components
+// @import 'components/button';
+// @import 'components/card';
+// @import 'components/badge';
+
+// // layout
+// @import 'layout/header';
+// @import 'layout/footer';
+// @import 'layout/grid';
+// @import 'layout/sidebar';
+
+// // pages
+// @import 'pages/home';
+// @import 'pages/product';
+// @import 'pages/collection';
+
+// // theme
+// @import 'themes/default';
